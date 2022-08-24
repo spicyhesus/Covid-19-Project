@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../data mining course/courses/Séance 2/Segmentation/Atelier/.idea/Atelier.iml" filepath="$PROJECT_DIR$/../../../data mining course/courses/Séance 2/Segmentation/Atelier/.idea/Atelier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../data mining course/courses/Séance 4/Atelier Python/.idea/Atelier Python.iml" filepath="$PROJECT_DIR$/../../../data mining course/courses/Séance 4/Atelier Python/.idea/Atelier Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../data mining course/courses/Séance8-9/Ateliers_ADD/Atelier_Python/Atelier2/Atelier_ADD/.idea/Atelier_ADD.iml" filepath="$PROJECT_DIR$/../../../data mining course/courses/Séance8-9/Ateliers_ADD/Atelier_Python/Atelier2/Atelier_ADD/.idea/Atelier_ADD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Data mining tps/Atelier_recap/.idea/Atelier_recap.iml" filepath="$PROJECT_DIR$/../../../Data mining tps/Atelier_recap/.idea/Atelier_recap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../data mining course/courses/Séance10/Ateliers/KNN_GridSearch/.idea/KNN_GridSearch.iml" filepath="$PROJECT_DIR$/../../../data mining course/courses/Séance10/Ateliers/KNN_GridSearch/.idea/KNN_GridSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../covid_lstm/dsProject1/.idea/dsProject1.iml" filepath="$PROJECT_DIR$/../covid_lstm/dsProject1/.idea/dsProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hamza dm.iml" filepath="$PROJECT_DIR$/.idea/hamza dm.iml" />
+    </modules>
+  </component>
+</project>

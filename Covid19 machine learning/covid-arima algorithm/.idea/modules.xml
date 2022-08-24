@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/covid-arima.iml" filepath="$PROJECT_DIR$/.idea/covid-arima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../downloads/.idea/downloads.iml" filepath="$PROJECT_DIR$/../../../downloads/.idea/downloads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../covid19_pca_dataspell/dsProject/.idea/dsProject.iml" filepath="$PROJECT_DIR$/../covid19_pca_dataspell/dsProject/.idea/dsProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../covid_lstm/dsProject1/.idea/dsProject1.iml" filepath="$PROJECT_DIR$/../covid_lstm/dsProject1/.idea/dsProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hamza dm/.idea/hamza dm.iml" filepath="$PROJECT_DIR$/../hamza dm/.idea/hamza dm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../marwen dm/wawa/.idea/wawa.iml" filepath="$PROJECT_DIR$/../marwen dm/wawa/.idea/wawa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yessin DM/.idea/yessin DM.iml" filepath="$PROJECT_DIR$/../yessin DM/.idea/yessin DM.iml" />
+    </modules>
+  </component>
+</project>
